@@ -1,5 +1,6 @@
 # friendly-disco
 ## A Minecraft Mod combining lots of the popular mods into a sort of mega mod.
+## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
 ### _Awaiting dev. Contact if interested._
 
